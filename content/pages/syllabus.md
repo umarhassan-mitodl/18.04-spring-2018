@@ -34,8 +34,8 @@ There is no required textbook. We will use the following written resources:
 
 - {{% resource_link "0abe434b-19be-6227-ebe3-b5291011a10d" "Lecture Notes" %}}
 - We will occasionally use readings from the following online textbooks. You can also use them as supplemental reading.
-    - Taylor, Michael. [*Introduction to Complex Analysis* (PDF - 1.3MB)](http://mtaylor.web.unc.edu/files/2018/04/complex.pdf)
-    - Beck, Matthias, Gerald Marchesi, Dennis Pixton, and Lucas Sabalka. [*A First Course in Complex Analysis* (PDF - 1.5MB)](https://matthbeck.github.io/papers/complexorth.pdf)
+    - Taylor, Michael. {{% resource_link "2e777ab9-2ad9-4574-b5df-ed1caa0d094d" "*Introduction to Complex Analysis* (PDF - 1.3MB)" %}}
+    - Beck, Matthias, Gerald Marchesi, Dennis Pixton, and Lucas Sabalka. {{% resource_link "4b823b50-c9da-4939-aab8-750816d7e794" "*A First Course in Complex Analysis* (PDF - 1.5MB)" %}}
 - Brown, James Ward and Ruel V. Churchill. *Complex Variables and Applications.* 9th ed. McGraw-Hill Education, 2013. ISBN: 9780073383170.
 
 ## Homework and Exams

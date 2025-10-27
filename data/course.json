@@ -30,7 +30,7 @@
     "website": "18-04-complex-variables-with-applications-spring-2018"
   },
   "course_title": "Complex Variables with Applications ",
-  "hide_download": true,
+  "hide_download": false,
   "course_description": "Complex analysis is a basic tool with a great many practical applications to the solution of physical problems. It revolves around complex analytic functions\u2014functions that have a complex derivative. Unlike calculus using real variables, the mere existence of a complex derivative has strong implications for the properties of the function. Applications reviewed in this class include harmonic functions, two dimensional fluid flow, easy methods for computing (seemingly) hard integrals, Laplace transforms, and Fourier transforms with applications to engineering and physics.\n",
   "department_numbers": [
     "18"
@@ -41,7 +41,6 @@
     "content": "78abdad0-6ee4-6628-98ff-2493e0bce191",
     "website": "18-04-complex-variables-with-applications-spring-2018"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Exams with Solutions",
     "Lecture Notes",
