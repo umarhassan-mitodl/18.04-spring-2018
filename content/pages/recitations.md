@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section includes 12 handouts and 12 solutions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection

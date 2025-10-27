@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-04-complex-variables-with-applications-spring-2018/9f481691b16e53bbd6c6c0b9360ea5d4_MIT18_04S18_Recit3-solutions.pdf
 file_size: 228212
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

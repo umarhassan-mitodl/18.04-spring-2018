@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-04-complex-variables-with-applications-spring-2018/b8712f3f93fcea3feadc62e899dcd793_MIT18_04S18_pex2-qa.pdf
 file_size: 311048
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

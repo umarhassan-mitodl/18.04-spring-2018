@@ -1,15 +1,13 @@
 ---
 content_type: page
 description: This section includes applets information.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 0d58de73-fdbc-d44f-9b1b-72c98d7178ac
 ---
 
-The [Differential Equations Applets](http://web.mit.edu/jorloff/www/jmoapplets/applets.html) page is an extensive collection of applets including:
+The {{% resource_link "883da255-0157-4a0d-838c-bde905141c97" "Differential Equations Applets" %}} page is an extensive collection of applets including:
 
 *   MIT Mathlets
 *   Applets used in _18.02 Calculus_
